@@ -1,0 +1,5 @@
+# Ignore everything except the design and test bench
+*
+!.gitignore
+!mp2.sv
+!mp2_tb.sv
